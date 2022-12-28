@@ -8,16 +8,16 @@ main:
     url: /
     weight: 10
   - name: Projects
-    url: 'project/project'
+    url: '/project/'
     weight: 40
   - name: Posts
     url: 'post/'
     weight: 30
   - name: Courses
-    url: 'courses/courses'
+    url: '/courses'
     weight: 50
   - name: Teaching
-    url: 'teaching/teaching'
+    url: '/teaching'
     weight: 60
   - name: Media
     url: 'media/'
