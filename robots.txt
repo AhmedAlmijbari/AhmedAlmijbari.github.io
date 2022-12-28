@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ahmedalmijbari.github.io/sitemap.xml
