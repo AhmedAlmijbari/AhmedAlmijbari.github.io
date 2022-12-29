@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Ahmed Almijbari'
+    description: 'A neuroengineer quest to understand and build intelligence'
+    twitter: 'Ahmed_Elmagbri'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-YWQH6BJWRN'
     baidu_tongji: ''
   verification:
     google: ''
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/AhmedAlmijbari/AhmedAlmijbari.github.io'
     content_dir: content
     branch: main
   avatar:
