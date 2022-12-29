@@ -44,7 +44,7 @@ experience:
     company: 'University of Benghazi'
     company_url: 'https://uob.edu.ly/'
     company_logo: UoB
-    location: 'Munich'
+    location: 'Benghazi'
     date_start: '2017-09-01'
     date_end: '2018-12-31'
     description: '• Teaching tutorial lectures of Electromagnetics Theory and Digital Communications.
