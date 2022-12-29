@@ -1,8 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ahmed Almijbari</title><link>https://ahmedalmijbari.github.io/</link><atom:link href="https://ahmedalmijbari.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Ahmed Almijbari</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://ahmedalmijbari.github.io/media/sharing.jpg</url><title>Ahmed Almijbari</title><link>https://ahmedalmijbari.github.io/</link></image><item><title>Media</title><link>https://ahmedalmijbari.github.io/media/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://ahmedalmijbari.github.io/media/</guid><description>&lt;h4 id="to-be-updated">To be Updated.&lt;/h4>
-&lt;hr></description></item><item><title>Teaching</title><link>https://ahmedalmijbari.github.io/teaching/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://ahmedalmijbari.github.io/teaching/</guid><description>&lt;h4 id="electromagnetic-theory">Electromagnetic Theory&lt;/h4>
-&lt;p>To be Added&lt;/p>
+&lt;hr></description></item><item><title>Teaching</title><link>https://ahmedalmijbari.github.io/teaching/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://ahmedalmijbari.github.io/teaching/</guid><description>&lt;div style="text-align: justify"> I believe that teaching is a powerful tool to have a positive impact on society by educating new generations and engage them into science and engineering. During my work as teaching assistant at the University of Benghazi the following semster after my graduation, I taught tutorials of two lectures in the Electrical and Electronics Department for two semsters.
+&lt;h4 id="electromagnetic-theory">Electromagnetic Theory&lt;/h4>
+&lt;p>Content:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Vector Algebra:&lt;/strong> Coordinate systems including general curvilinear.&lt;/li>
+&lt;li>&lt;strong>Vector analysis:&lt;/strong> Differential relations and line, Surface and volume integration.&lt;/li>
+&lt;li>&lt;strong>Static electric fields:&lt;/strong> Coulomb&amp;rsquo;s law, Electric Flux Density, Gauss’s Law, and Divergence, Maxwell&amp;rsquo;s divergence and curl equations, Capacitance, Energy, Dielectric materials and Boundary conditions&lt;/li>
+&lt;li>&lt;strong>Steady magnetic fields:&lt;/strong> Bio-Savart&amp;rsquo;s law, Ampere&amp;rsquo;s law, Maxwell&amp;rsquo;s divergence and curl equations, Inductance, Energy, Magnetic materials, Boundary conditions and Magnetic circuits&lt;/li>
+&lt;/ul>
 &lt;h4 id="digital-communication">Digital Communication&lt;/h4>
-&lt;p>To be Added&lt;/p>
+&lt;p>Content:&lt;/p>
+&lt;ul>
+&lt;li>Information Theory and entropy.&lt;/li>
+&lt;li>Compression: Huffman and LZW.&lt;/li>
+&lt;li>Error, channel codes.&lt;/li>
+&lt;li>Linear block codes, parity relations.&lt;/li>
+&lt;li>Error correction, syndrome decoding.&lt;/li>
+&lt;li>Convolutional codes.&lt;/li>
+&lt;li>Basic PCM encoding and quantization.&lt;/li>
+&lt;li>Digital modulations.&lt;/li>
+&lt;li>Baseband encoding forms.&lt;/li>
+&lt;li>Sampling quantization.&lt;/li>
+&lt;li>Differential and quadriphase shift keying&lt;/li>
+&lt;/ul>
+&lt;/div>
 &lt;hr></description></item><item><title>Example Talk</title><link>https://ahmedalmijbari.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://ahmedalmijbari.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
@@ -161,7 +182,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-435196278" class="chart">&lt;/div>
+&lt;div id="chart-478159623" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -170,7 +191,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-435196278', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-478159623', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
