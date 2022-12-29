@@ -17,15 +17,18 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 <div style="text-align: justify"> I believe that teaching is a powerful tool to have a positive impact on society by educating new generations and engage them into science and engineering. During my work as teaching assistant at the University of Benghazi the following semster after my graduation, I taught tutorials of two lectures in the Electrical and Electronics Department for two semsters.   
 
 
-#### Electromagnetic Theory
+-------
+
+### Electromagnetic Theory
 Content: 
 - **Vector Algebra:** Coordinate systems including general curvilinear.
 - **Vector analysis:** Differential relations and line, Surface and volume integration.
 - **Static electric fields:** Coulomb's law, Electric Flux Density, Gauss’s Law, and Divergence, Maxwell's divergence and curl equations, Capacitance, Energy, Dielectric materials and Boundary conditions
 - **Steady magnetic fields:** Bio-Savart's law, Ampere's law, Maxwell's divergence and curl equations, Inductance, Energy, Magnetic materials, Boundary conditions and Magnetic circuits
 
+-------
 
- #### Digital Communication
+ ### Digital Communication
 Content: 
 - Information Theory and entropy.
 - Compression: Huffman and LZW.
