@@ -15,6 +15,17 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 ---
 
 
- #### To be Updated.
+ #### [Featured at MIT OCW 20th anniversary.](https://www.youtube.com/watch?v=gl8sEE8fWFA)
+ ![image](/images/mit.jpg)
+
+------
+
+#### [Featured at 'Open education resources to shape post-pandemic world' article by Curt Newton and Krishna Rajagopal.](https://www.universityworldnews.com/post.php?story=20210427140906654)
+ ![image](/images/article.png)
+
+ ------
+
+####  [Interviewed in a libyan podcast on artificial intelligence.](https://soundcloud.com/user-800185783/artificial-intelligence)
+ ![image](/images/podcast.png)
 
 ---

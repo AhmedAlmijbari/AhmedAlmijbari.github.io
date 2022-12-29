@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Neural Information Processing Dynamics during the emergence of visual metacognition"
+title: "Dynamics of Neural Information Processing During the Emergence of Visual Metacognition"
 summary: "**(This research is currently conducted)** - Stay tuned for interesting result soon!. <br />
 This research investigates the neural information processing mechanism and dynamics of the brain during the emergence of congnitive functions using Computational and mathematical analysis of fMRI data"
 authors: []

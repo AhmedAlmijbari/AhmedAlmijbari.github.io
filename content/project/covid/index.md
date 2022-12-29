@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Detection of COVID-19 patterns in chest X-ray scans using machine learning"
+title: "Detection of COVID-19 Patterns in Chest X-ray Scans Using Machine Learning"
 summary: "The need to find scalable, rapid and accessible, yet accurate, methods of diagnosis is crucial for fighting pandemics. The COVID-19 infected patients may represent on chest X-ray images with a pattern that is only barely characteristic for the human eye, Accordingly; machine learning can play a critical role in automating patterns recognition faster, and more precise. The model trained on a pre-classified database of X-ray images from COVID-19, Pneumonia, and healthy patients. The model is designed using Convolutional Neural networks, with ResNet architecture, and transfer learning by pre-trained the model on ImageNet. It is been trained to recognize the patterns of the three classes (COVID-19, non-COVID-19 Pneumonia, or Normal) from 3429 X-ray samples, and its out-of-distribution performance examined using 378 X-ray images of different patient, succeeded in classifying the predicted class correctly by accumulated accuracy of (~92%)."
 authors: []
 tags: []
