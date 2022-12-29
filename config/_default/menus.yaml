@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Projects
     url: '/projects'
-    weight: 40
+    weight: 20
   - name: Posts
     url: 'post/'
     weight: 30
