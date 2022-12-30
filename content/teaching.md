@@ -12,6 +12,7 @@ subtitle:
 weight: 30 # The position of section on page
 
 text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+
 ---
 
 <div style="text-align: justify"> I believe that teaching is a powerful tool to have a positive impact on society by educating new generations and engage them into science and engineering. During my work as teaching assistant at the University of Benghazi the following semster after my graduation, I taught tutorials of two lectures in the Electrical and Electronics Department for two semsters.   

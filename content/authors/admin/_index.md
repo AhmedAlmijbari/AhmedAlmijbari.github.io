@@ -83,5 +83,5 @@ email: ahmed.elmagbri@gmail.com
 highlight_name: true
 ---
 
-I am a master student of the ENB Elite MSc program in Neuroengineering at Technical Univeristy of Munich. currently I am doing research as research intern at Dynamics of Brain Connectivity Lab of The Neuroimaging Center at the Technische Universität München. My research investigates the neural information processing mechanism and dynamics of the brain during the emergence of congnitive functions using Computational and mathematical analysis of fMRI data.
+I am a master student of the ENB Elite MSc program in Neuroengineering at Technical Univeristy of Munich. currently I am doing research as research intern at Dynamics of Brain Connectivity Lab of The Neuroimaging Center at the Technische Universität München. My research investigates the neural information processing mechanism and dynamics of the brain during the emergence of congnitive functions using computational and mathematical analysis of fMRI data.
 {style="text-align: justify;"}
