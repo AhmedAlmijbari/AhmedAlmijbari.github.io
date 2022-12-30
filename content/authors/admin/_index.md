@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Elite Msc Student and Research Intern
+role: Elite MSc Student and Research Intern
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,7 +35,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Elite Msc in Neuroengineering
+    - course: Elite MSc in Neuroengineering
       institution: Technical Univeristy of Munich
       year: 2023
     - course: BSc in Electrical Engineering
