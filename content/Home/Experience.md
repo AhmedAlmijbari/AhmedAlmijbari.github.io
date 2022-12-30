@@ -29,7 +29,7 @@ experience:
         Investigating the neural information processing dynamics during the emergence of congnitive functions | Dynamics of Brain Connectivity Lab.
                 
   - title: 'Research Intern'
-    company: 'Technical Univeristy of Munich'
+    company: 'Technical University of Munich'
     company_url: 'https://www.tum.de/'
     company_logo: tum
     location: 'Munich'
