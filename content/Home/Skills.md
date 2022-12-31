@@ -21,12 +21,12 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 
 
  #### Computational:
-- Machine Learning: <em> Numpy - Pandas - Pytorch </em>
-- Neuroimaging: <em> FSL - SPM </em>
-- Software: <em>  Arduino - Git - Latex </em>
+- Machine Learning/Data Science <em> (Numpy - Pandas - sklearn - Pytorch) </em>
+- Neuroimaging <em> (FSL - SPM) </em>
+- Software: <em>  Arduino - Git -  CI - Latex </em>
 
 
 
  #### Mathematical:
-Signal Processing - Machine Learning - Large-scale Modelling and Data Analysis - Probability Theory - Dynamical Systems - Numerical Methods - Information theory.
+Signal Processing - Large-scale Modelling and Data Analysis -  Machine Learning - Probability Theory and Statistics - Dynamical Systems - Numerical Methods - Information Theory.
 

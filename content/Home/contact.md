@@ -8,7 +8,7 @@ title: Contact
 active: true
 
 subtitle:
-weight: 40 # The position of section on page
+weight: 50 # The position of section on page
 
 text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---

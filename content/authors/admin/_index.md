@@ -39,7 +39,7 @@ education:
       institution: Technical University of Munich
       year: 2023
     - course: BSc in Electrical Engineering
-      institution: University of Benghazi
+      institution: 'University of Benghazi, GPA: 3.95 out of 4'
       year: 2017
 
 
