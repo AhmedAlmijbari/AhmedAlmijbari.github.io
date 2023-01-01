@@ -26,7 +26,7 @@ experience:
     date_start: '2022-10-01'
     date_end: ''
     description: >-
-        Investigating the neural information processing dynamics during the emergence of congnitive functions | Dynamics of Brain Connectivity Lab.
+        Investigating the dynamics of neural information processing of the brain during the emergence of cognitive functions | Dynamics of Brain Connectivity Lab.
                 
   - title: 'Research Intern'
     company: 'Technical University of Munich'
