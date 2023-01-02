@@ -23,7 +23,7 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
  #### Computational:
 - Machine Learning/Data Science <em> (Numpy - Pandas - sklearn - Pytorch) </em>
 - Neuroimaging <em> (FSL - SPM) </em>
-- Software: <em>  Arduino - Git -  CI - Latex </em>
+- Software: <em>  Git -  CI - LaTex - Linux - Arduino </em>
 
 
 
