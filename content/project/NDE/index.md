@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/AhmedAlmijbari/HodgkinModel.jl"
-url_pdf: "/project/NDE-for-HHModel/NDE.pdf"
+url_pdf: "/project/NDE/NDE.pdf"
 url_slides: ""
 url_video: ""
 
