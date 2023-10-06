@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Elite MSc Student and Research Intern
+role: Elite MSc Neuroengineering and Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -36,7 +36,7 @@ interests:
 education:
   courses:
     - course: Elite MSc in Neuroengineering
-      institution: Technical University of Munich
+      institution: Technical University of Munich, with Honours
       year: 2023
     - course: BSc in Electrical Engineering
       institution: 'University of Benghazi, GPA: 3.95 out of 4'
@@ -74,7 +74,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Ahmed_ALMIJBARI_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ahmed.elmagbri@gmail.com
@@ -83,5 +83,5 @@ email: ahmed.elmagbri@gmail.com
 highlight_name: true
 ---
 
-I am a master's student of the ENB Elite MSc program in Neuroengineering at the Technical University of Munich. Currently, I am doing research as a research intern at the Dynamics of Brain Connectivity Lab of The Neuroimaging Center at the Technische Universität München. My research investigates the dynamics of neural information processing of the brain during the emergence of cognitive functions using computational and mathematical analysis of fMRI data.
+Hi! I'm Ahmed. I graduated from the Elite MSc program in Neuroengineering at TU Munich. Through my hard work and dedication, I have won two scholarships and graduated with an honour and research excellence certificate from the elite network of Bavaria. My passion lies in using engineering and computational approaches to understand the brain and enhance human lives.
 {style="text-align: justify;"}

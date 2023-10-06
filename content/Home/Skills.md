@@ -15,18 +15,19 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 
 
  #### Programming Languages:
-- Python
-- MATLAB 
-- Julia
+Python - MATLAB - Julia
 
 
  #### Computational:
-- Machine Learning/Data Science <em> (Numpy - Pandas - sklearn - Pytorch) </em>
-- Neuroimaging <em> (FSL - SPM) </em>
-- Software: <em>  Git -  CI - LaTex - Linux - Arduino </em>
+**Machine Learning & Data Science**  (Numpy - Pandas - Scikit-learn - TensorFlow - Pytorch)              
+**Neuroimaging** (FSL - SPM)              
+**Software Engineering** (Test Driven Development (TDD) ”Google Test” - Version Control ”Git” - CI/CD - CMake - LaTeX- Linux)
+ </em>
 
 
 
  #### Mathematical:
 Signal Processing - Large-scale Modelling and Data Analysis -  Machine Learning - Probability Theory and Statistics - Dynamical Systems - Numerical Methods - Information Theory.
 
+ #### Engineering:
+Arduino - TEMS - ACTIX Analyzer - Multisim - Logic design - Oscilloscope

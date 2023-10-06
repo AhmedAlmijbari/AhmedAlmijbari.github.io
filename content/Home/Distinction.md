@@ -19,7 +19,8 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 </div>
 <a href="https://www.elitenetzwerk.bayern.de/start"><h3>Elite Network of Bavaria </a> <h4>Member</h4>
 
-   "The Bavarian state ministry of science and the arts initiative to support the outstanding talents at Bavarian universities."
+The Bavarian State Ministry of Science and the Arts initiative to support the outstanding talents at Bavarian
+universities.
  </p>
 
 <p>
@@ -28,7 +29,8 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 </div>
 <a href="https://www.rheinstahl-stiftung.de/"><h3>Rheinstahl Stipendium </a> <h4>Scholarship Holder</h4>
 
-   "The Rheinstahl Foundation supports up to 50 talented students per year in Germany in their academic training and professional development by promoting their studies with the financial and non-material support."
+The Rheinstahl Foundation annually supports up to 50 talented students in Germany by providing financial
+and non-financial assistance throughout academic training and professional development.
 <p>
 
 <div>
@@ -36,7 +38,8 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 </div>
 
 [<h3>Louis Schuler Funds](https://www.schulergroup.com/human_resources/studenten/stipendium/index.html) <h4> Scholarship Holder </h4>
-   "Supporting committed, technology-loving students with scholarships, and awarding them for special achievements in their thesis and enables them to do interesting projects at the universities."
+Schuler group funds committed, technology-loving students with scholarships, awarding for remarkable
+achievements in the thesis and enabling students to pursue exciting university projects.
 
 
   
