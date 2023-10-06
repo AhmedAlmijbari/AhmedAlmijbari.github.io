@@ -46,7 +46,7 @@ experience:
     company: 'University of Oxford'
     company_url: 'https://www.ox.ac.uk/'
     company_logo: oxford
-    location: 'Munich'
+    location: 'Oxford'
     date_start: '2023-05-01'
     date_end: '2023-07-01'
     description: >-
