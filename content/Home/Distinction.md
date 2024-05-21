@@ -17,7 +17,7 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 <div>
     <p style="float: left ;padding-left: 0px;  margin: 0 15px 0 0"><img src="/images/enblogo.png" height="150px" width="80px" ></p> 
 </div>
-<a href="https://www.elitenetzwerk.bayern.de/start"><h3>Elite Network of Bavaria </a> <h4>Member</h4>
+<a href="https://www.elitenetzwerk.bayern.de/start"><h3>Elite Network of Bavaria </a> <h4>Research Excellence Certificate</h4>
 
 The Bavarian State Ministry of Science and the Arts initiative to support the outstanding talents at Bavarian
 universities.

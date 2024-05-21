@@ -18,13 +18,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
+  - title: 'PhD Researcher, Academic Staff'
+    company: 'Technical University of Munich'
+    company_url: 'https://www.tum.de/'
+    company_logo: tum
+    location: 'Garmisch-Partenkirchen'
+    date_start: '2024-07-01'
+    date_end: ''
+    description: >-
+      Munich Institute of Robotics and Machine Intelligence | Neural Interfacing Group
+
+
   - title: 'Research Assistant, Data Analysis, Signal and Image Processing'
     company: 'Klinikum rechts der Isar'
     company_url: 'https://www.mri.tum.de/'
     company_logo: MRI
     location: 'Munich'
-    date_start: '2023-02-01'
-    date_end: ''
+    date_start: '2022-11-01'
+    date_end: '2023-12-31'
     description: >-
        Department of Diagnostic and Interventional Neuroradiology.
        
@@ -35,8 +46,8 @@ experience:
     company_url: 'https://www.tum.de/'
     company_logo: tum
     location: 'Munich'
-    date_start: '2022-10-01'
-    date_end: ''
+    date_start: '2023-02-01'
+    date_end: '2023-08-31'
     description: >-
         Dynamics of Brain Connectivity Lab
 

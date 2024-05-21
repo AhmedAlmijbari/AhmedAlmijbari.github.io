@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Elite MSc Neuroengineering and Research Assistant
+role: PhD Researcher and Academic
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,8 +26,8 @@ bio: Reverse-engineering the human brain to undersand how the brain works, build
 
 # Interests to show in About widget
 interests:
-- Neuroengineering
-- Computational Neuroscience
+- NeuroAI
+- Brain-Computer Interface
 - Artificial/Biological Intelligence
 
  
@@ -83,5 +83,5 @@ email: ahmed.elmagbri@gmail.com
 highlight_name: true
 ---
 
-Hi! I'm Ahmed. I graduated from the Elite MSc program in Neuroengineering at TU Munich. Through my hard work and dedication, I have won two scholarships and graduated with an honour and research excellence certificate from the elite network of Bavaria. My passion lies in using engineering and computational approaches to understand the brain and enhance human lives.
+Servus! I'm Ahmed, a PhD researcher at the Munich Institute of Robotics and Machine Intelligence, TU Munich. I recently graduated with honours from the Elite MSc program in Neuroengineering at TU Munich, earning two scholarships and the research excellence certificate from the elite network of Bavaria. My passion lies in developing NeuroAI systems to replace and restore impaired brain functions through brain-machine interfaces. I aim to create methodologies and technologies that redefine neuro-engineering and significantly enhance the quality of life for individuals with neural deficits.
 {style="text-align: justify;"}

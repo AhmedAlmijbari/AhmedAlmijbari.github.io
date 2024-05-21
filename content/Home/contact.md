@@ -16,10 +16,13 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 
  #### Contact:
 **Technische Universität München** <br />
-Klinikum rechts der Isar <br />
-Neuro-Kopf-Zentrum <br />
-Ismaninger Str. 22 <br />
-81675 Munich
+TUM Forschungszentrum Geriatronik <br />
+Munich Institute of Robotics and Machine Intelligence | Neural Interfacing Group <br />
+Bahnhofstraße 37 <br />
+82467 Garmisch-Partenkirchen
 
 **E-mail:** ahmed.almijbari@tum.de <br />
 **Phone:** +49 163 1952422
+
+
+
