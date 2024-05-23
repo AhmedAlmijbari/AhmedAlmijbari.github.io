@@ -83,5 +83,5 @@ email: ahmed.elmagbri@gmail.com
 highlight_name: true
 ---
 
-Salam! I'm Ahmed, a PhD researcher at the Munich Institute of Robotics and Machine Intelligence, Technical University of Munich. I graduated with honours from the Elite MSc program in Neuroengineering at TU Munich, receiving the research excellence certificate from the elite network of Bavaria and two scholarships. My passion lies in developing Neuro AI systems to replace and restore impaired brain functions through brain-machine interfaces. I aim to create methodologies and technologies that redefine neuro-engineering and significantly enhance the quality of life for individuals with neural deficits.
+Salam! I'm Ahmed, a PhD researcher and academic staff member at the Munich Institute of Robotics and Machine Intelligence, Technical University of Munich. I recently graduated with honours from the Elite MSc program in Neuroengineering at TU Munich, receiving the research excellence certificate from the elite network of Bavaria and two scholarships. My passion lies in developing Neuro AI systems to replace and restore impaired brain functions through brain-machine interfaces. I aim to create methodologies and technologies that redefine neuro-engineering and significantly enhance the quality of life for individuals with neural deficits.
 {style="text-align: justify;"}
