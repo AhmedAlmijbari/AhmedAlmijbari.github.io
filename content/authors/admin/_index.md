@@ -26,7 +26,7 @@ bio: Reverse-engineering the human brain to undersand how the brain works, build
 
 # Interests to show in About widget
 interests:
-- Neuro AI
+- NeuroAI
 - Brain-Computer Interface
 - Artificial/Biological Intelligence
 
