@@ -26,9 +26,9 @@ bio: Reverse-engineering the human brain to undersand how the brain works, build
 
 # Interests to show in About widget
 interests:
-- NeuroAI
+- NeuroAI and Machine Learning
 - Brain-Computer Interface
-- Artificial/Biological Intelligence
+- Biological and Artificial Intelligence
 
  
 
@@ -83,5 +83,5 @@ email: ahmed.elmagbri@gmail.com
 highlight_name: true
 ---
 
-Salam! I'm Ahmed, a PhD researcher and academic staff member at the Munich Institute of Robotics and Machine Intelligence, Technical University of Munich. I recently graduated with honours from the Elite MSc program in Neuroengineering at TU Munich, receiving the research excellence certificate from the elite network of Bavaria and two scholarships. My passion lies in developing Neuro AI systems to replace and restore impaired brain functions through brain-machine interfaces. I aim to create methodologies and technologies that redefine neuro-engineering and make a meaningful impact on the quality of life for individuals with neural deficits.
+Salam! I'm Ahmed, a PhD researcher and academic staff member at the Munich Institute of Robotics and Machine Intelligence, Technical University of Munich. I graduated with honours from the Elite MSc program in Neuroengineering at TU Munich, where I was awarded the Research Excellence Certificate from the Elite Network of Bavaria. My experience spans AI, brain-inspired systems, and neural dynamics. My passion lies in reverse-engineering the biological brain to build intelligent machines and restore impaired neural functions.
 {style="text-align: justify;"}

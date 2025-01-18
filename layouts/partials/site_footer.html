@@ -1,0 +1,17 @@
+<footer class="site-footer">
+
+    {{ partial "functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+  
+    {{/* Load footer widget */}}
+    {{ $footer_section_name := site.Params.footer.widget | default "minimal" }}
+    {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+    {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+      {{ errorf "Check your `params.yaml`. Cannot find footer widget at `layouts/partials/%s`" $footer_section_path }}
+    {{ end }}
+    {{ partial $footer_section_path . }}
+  
+    <p class="powered-by">
+      Powered by <a href="https://hugoblox.com/" target="_blank" rel="noopener"> Hugo Blox</a>
+    </p>
+  </footer>
+  

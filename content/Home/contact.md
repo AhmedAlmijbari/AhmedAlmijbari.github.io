@@ -1,28 +1,44 @@
 ---
-
-widget: markdown
+widget: contact
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Contact
-active: true
+title: Contact Me
+subtitle: ''
+weight: 1000
 
-subtitle:
-weight: 50 # The position of section on page
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
 
-text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+  # Email form provider
+  form:
+    provider: formspree
+    formspree:
+      id: xblrrwvr
+
+
+  # Contact details (edit or remove options as required)
+  email: ahmed.almijbari@tum.de
+  phone: +49 163 1952422
+  address:
+    street: Bahnhofstraße 37
+    city: Garmisch-Partenkirchen
+    region: Bavaria
+    postcode: '82467'
+    country: Germany
+    country_code: DE
+  office_hours:
+  appointment_url: 'https://calendly.com/ahmed-almijbari/chat-with-me'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/Ahmed_Elmagbri'
+
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
 ---
-
-
- #### Contact:
-**Technische Universität München** <br />
-TUM Forschungszentrum Geriatronik <br />
-Munich Institute of Robotics and Machine Intelligence | Neural Interfacing Group <br />
-Bahnhofstraße 37 <br />
-82467 Garmisch-Partenkirchen
-
-**E-mail:** ahmed.almijbari@tum.de <br />
-**Phone:** +49 163 1952422
-
-
 

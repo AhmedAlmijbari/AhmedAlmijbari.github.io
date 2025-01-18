@@ -10,15 +10,21 @@ main:
   - name: Projects
     url: '/projects'
     weight: 20
+  #- name: Blog
+  #  url: '/post'
+  #  weight: 30
+  #- name: News
+  #  url: '/event'
+  #  weight: 40    
   - name: Courses
     url: '/courses'
     weight: 50
-  - name: Teaching
-    url: '/teaching'
-    weight: 60
   - name: Media
     url: 'media/'
-    weight: 70
+    weight: 60
+ # - name: About Me
+ #   url: '/About-me'
+ #   weight: 70
 
 
 # Link to a PDF of your resume/CV from the menu.

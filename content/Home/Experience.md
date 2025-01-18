@@ -26,10 +26,10 @@ experience:
     date_start: '2024-07-01'
     date_end: ''
     description: >-
-      Munich Institute of Robotics and Machine Intelligence | Neural Interfacing Group
+      Munich Institute of Robotics and Machine Intelligence – The AI Mission Institute | Neural Interfacing Group.
 
 
-  - title: 'Research Assistant, Data Analysis, Signal and Image Processing'
+  - title: 'Research Engineer, Neural Data Science, Signal and Image Processing'
     company: 'Klinikum rechts der Isar'
     company_url: 'https://www.mri.tum.de/'
     company_logo: MRI
@@ -38,10 +38,20 @@ experience:
     date_end: '2023-12-31'
     description: >-
        Department of Diagnostic and Interventional Neuroradiology.
-       
-       - Implemented advanced neuroimaging data science and signal processing techniques to analyse brain data for 24 subjects, containing 160M time series signals, revealing novel patterns in brain activity through functional MRI.
+       <div style='text-align: justify;'>
 
-  - title: 'Research Intern, Computational Neuroscience, Biomedical Data Science, Statistical Analysis'
+       - Implemented large-scale data-driven methods to analyze over 200 GB of fMRI data and 160 million time series neural signals for exploring brain dynamics and identifying patterns associated with neural disorders, thereby enhancing the potential for diagnosing and treating mental disorders. 
+
+       - Developed an energy landscape model that uncovers the brain representation of metacognition in the prefrontal cortex.
+
+       - Identified two subcortical regions that influence the emergence of metacognition ability in the brain using unsupervised machine learning. 
+       
+       - Introduced brain information processing pathway of the subcortical-cortical interaction that gives rise to metacognition using information theory and mediation analysis.
+       
+       </div>
+       
+
+  - title: 'Research Assistant, Computational Neuroscience, Biomedical Data Analysis, Algorithm Development'
     company: 'The Neuroimaging Center at the Technische Universität München'
     company_url: 'https://www.tum.de/'
     company_logo: tum
@@ -51,7 +61,8 @@ experience:
     description: >-
         Dynamics of Brain Connectivity Lab
 
-        - Investigated neural information processing during cognitive function emergence, implementing large-scale Energy Landscape modeling and data analysis methods on 20+ gigabytes of data, performing statistical and computational analysis on over 800k data points.
+        - Developed computational and quantitative algorithms for processing over 800k data points of fMRI data.
+
 
   - title: 'Summer Intern, Machine Learning Engineering, Medical AI'
     company: 'University of Oxford'
@@ -75,7 +86,7 @@ experience:
     description: '
         Ondracek Lab
     
-        - Engineered and deployed a state-of-the-art real-time detection and stimulation system to identify and modulate sharp wave ripples with a success rate of more than 97% and a low latency of under 20ms.'
+        - Engineered and deployed a state-of-the-art real-time brain implant closed-loop system to identify and modulate sharp wave ripples associated with learning and memory in the brain with a success rate of more than 97% and a low latency of under 20ms.'
 
 
   - title: 'Teaching Assistant, Tutor, Curriculum Development'
@@ -124,6 +135,5 @@ experience:
     description: '- Completed a 240+ hour internship focused on RF, microwave, and CDMA components, gaining valuable experience through theoretical concepts and hands-on practice.
 
 - Conducted weekly technical reports on network performance, maintenance and troubleshooting.'
-
 
 ---

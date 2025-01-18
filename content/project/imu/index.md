@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Threshold-based Information Transfer System with IMU, EMG and Vibrotactile motor"
-summary: "In this project, we built a system to transmit data between rooms via local WLAN networks using an IMU for encoding and four vibrotactile motors for decoding. we proposed a new method combining a threshold-based encoding strategy using IMU and EMG capable of encoding the numbers 0-9 to maximize the information transfer rate (ITR) without heavy pre-training for participants. An EMG signal is used as error-correction source to improve the accuracy on the encoding side. In experimental trials maximal information transfer rates of above 100 bit per minute and more than 99% accuracy were achieved in trials optimizing for one of both performance measurements at a time. " 
+summary: "<div style='text-align: justify;'> In this project, we developed a novel data-transmission system between two distinct locations using local WLAN networks, leveraging an Inertial Measurement Unit (IMU) for encoding transmitted information and four vibrotactile motors for decoding. We introduced a threshold-based encoding approach that utilizes the IMU and electromyography (EMG) to encode numerical values from 0 to 9, aiming to optimize the information transfer rate (ITR) while minimizing the need for extensive pre-training of participants. An EMG signal was incorporated as an error-correction mechanism to enhance encoding accuracy. Experimental trials demonstrated a maximum information transfer rate exceeding 100 bits per minute and achieved over 99% accuracy, with performance optimization focusing on one metric at a time.</div>" 
 
 
 authors: []

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Using CPG for Motor Control"
-summary: "This project implemented the oscillatory network as presented by Matsuoka et al in order to control a bipad walking robot and snake crawling robot in two different challenging tasks. Central pattern generators (CPGs) are self-organizing biological neural circuits that produce rhythmic outputs. These output can be used to control of locomotion in bio-inspired robots. This mechansim can bring interesting insights on how to gain inspiration from the biological systems in order to build more robust and natural behavouir in robots' movement. The project implemented a CPG model in microcontroller chip using arduino and connceted it to control the robots to perform the optimised outputs for two tasks."
+summary: "<div style='text-align: justify;'> This project explores the application of Matsuoka et al.'s oscillatory network model for controlling bipod walking and snake-crawling robots in distinct and challenging scenarios. Central Pattern Generators (CPGs) are biological neural circuits that produce rhythmic outputs, which can be harnessed for locomotion control in bio-inspired robots. This work investigates how biological principles can inspire more robust and natural movement behaviours in robotic systems by implementing a CPG model on a microcontroller using Arduino. The CPG model was integrated with the robots to optimize their performance across the two tasks, providing valuable insights into translating biological locomotion strategies into robotic applications.</div>"
 authors: []
 tags: []
 categories: []

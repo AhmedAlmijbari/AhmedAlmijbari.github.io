@@ -1,0 +1,96 @@
+// Footer styles
+
+footer {
+    margin: 4rem 0 0;
+    width: 100%;
+  }
+  
+  footer p {
+    font-size: 0.75rem;
+    text-align: center;
+    @include media-breakpoint-down(sm) {
+      /* 12px is min size required by Lighthouse on mobile */
+      font-size: 12px;
+    }
+  }
+  
+  footer .powered-by {
+    font-size: 0.67rem;
+    @include media-breakpoint-down(sm) {
+      /* 12px is min size required by Lighthouse on mobile */
+      font-size: 12px;
+    }
+  }
+  
+  .site-footer {
+    color: rgba(0, 0, 0, 0.54);
+  }
+
+    .site-footer a {
+        font-size: 0.67rem;
+        color: rgba(0, 0, 0, 0.54);
+    }
+
+    .site-footer .powered-by {
+        font-size: 0.67rem;
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+    }
+
+
+  // Dark footer theme
+  .dark .site-footer,
+  .dark .docs .body-footer {
+    color: rgba(255, 255, 255, 0.54);
+  }
+  
+ .dark .site-footer a {
+    font-size: 0.67rem;
+    color: rgba(255, 255, 255, 0.54);
+}
+
+.dark .site-footer .powered-by {
+    font-size: 0.67rem;
+}
+
+
+  // Footer copyright license
+  
+  .footer-license-icons {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    height: auto;
+    width: auto;
+    text-decoration: none;
+  }
+  
+  .footer-license-icons i {
+    display: inline-flex;
+    margin-right: 8px;
+    height: 22px;
+    vertical-align: text-bottom;
+  }
+
+ 
+
+  .powered-by {
+    display: inline; /* Display the elements inline */
+    margin-right: 10px; /* Optional: Add some space between the elements */
+}
+  
+  .copyright-license-text {
+    margin: 0; /* Ensure there is no margin */
+  }
+  
+  .powered-by a {
+    color: inherit; /* Ensure link color matches the text */
+    text-decoration: none; /* Remove underline from the link */
+
+  }
+
+  .site-footer {
+    text-align: center; /* Center the text within the entire page */
+  }

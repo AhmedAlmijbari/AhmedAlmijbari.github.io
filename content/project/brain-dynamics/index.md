@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Dynamics of Neural Information Processing During the Emergence of Visual Metacognition"
-summary: "**(This research is currently conducted)** - Stay tuned for interesting result soon!. <br />
-This research investigates the neural information processing mechanism and dynamics of the brain during the emergence of congnitive functions using computational and mathematical analysis of fMRI data"
+summary: "<div style='text-align: justify;'> This study employs large-scale data-driven methods to analyze over 200 GB of fMRI data and 160 million time series neural signals to explore brain dynamics and identify patterns associated with neural disorders, enhancing future diagnostic and therapeutic potential for mental health conditions. An energy landscape model was developed to understand the brain representation of metacognition within the prefrontal cortex in the forms of energy levels and entropy measures. Using unsupervised machine learning, we identified two subcortical regions that influence the development of metacognitive abilities and the formation of the energy landscape metacognitive representation in the prefrontal cortex. Additionally, we introduced a brain information processing pathway involving subcortical-cortical interactions, employing information theory and mediation analysis to explain the emergence of metacognition. These findings contribute to a deeper understanding of the neural correlates of metacognitive processes.</div>"
 authors: []
 tags: []
 categories: []

@@ -1,0 +1,36 @@
+# Theme metadata
+name = "custom_theme"
+
+[light]
+  # Primary
+  primary = "#1d1d1f"
+
+  # Menu
+  menu_primary = "#fafafc"
+  menu_text = "#323232"
+  menu_text_active = "#000000"
+  menu_title = "#1d1d1f"
+
+  # Home sections
+  home_section_odd = "#ffffff"
+  home_section_even = "#f5f5f7"
+
+  link = "#1d1d1f"
+  link_hover = "#1d1d1f"
+[dark]
+
+  # Primary
+  primary = "#e1e1e1"
+
+  menu_primary = "#202020"
+  menu_text = "#f5f5f7"
+  menu_text_active = "#ffffff"
+  menu_title = "#f5f5f7"
+
+  # Home sections
+  background="#191919"
+  home_section_odd = "#191919"
+  home_section_even = "#202020"
+
+  link = "#f5f5f7"
+  link_hover = "#f5f5f7"
