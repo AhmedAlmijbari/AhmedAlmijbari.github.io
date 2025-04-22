@@ -19,8 +19,7 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 </div>
 <a href="https://www.elitenetzwerk.bayern.de/start"><h3>Elite Network of Bavaria </a> <h4>Research Excellence Certificate</h4>
 
-The Bavarian State Ministry of Science and the Arts initiative to support the outstanding talents at Bavarian
-universities.
+Awarded by the Bavarian State Ministry of Science and the Arts for outstanding research contributions.
  </p>
 
 <p>
@@ -29,8 +28,7 @@ universities.
 </div>
 <a href="https://www.rheinstahl-stiftung.de/"><h3>Rheinstahl Stipendium </a> <h4>Scholarship Holder</h4>
 
-The Rheinstahl Foundation annually supports up to 50 talented students in Germany by providing financial
-and non-financial assistance throughout academic training and professional development.
+Selected among Germany’s top 50 students nationwide, recognizing academic excellence and exceptional research potential.
 <p>
 
 <div>
@@ -38,8 +36,7 @@ and non-financial assistance throughout academic training and professional devel
 </div>
 
 [<h3>Louis Schuler Funds](https://www.schulergroup.com/human_resources/studenten/stipendium/index.html) <h4> Scholarship Holder </h4>
-Schuler group funds committed, technology-loving students with scholarships, awarding for remarkable
-achievements in the thesis and enabling students to pursue exciting university projects.
+Granted for outstanding academic achievements and for advancing research in science and technology.
 
 
   

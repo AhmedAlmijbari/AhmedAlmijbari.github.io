@@ -15,26 +15,28 @@ text: Add any **markdown** formatted content here - text, images, videos, galler
 <section class="skills-cover">
   <div class="skills-category">
     <h3>Programming</h3>
-    <p>Python, MATLAB, Julia</p>
+    <p> <strong> Languages:</strong>
+    Python (fluent), MATLAB, Julia <br>
+     <strong> ML & Data Science:</strong> PyTorch, TensorFlow, Transformers (HuggingFace), Scikit-learn, NumPy,
+Pandas, SciPy, torchvision, Matplotlib, Seaborn  <br>
+    <strong>Software Engineering:</strong> Test-Driven Development (TDD; Google Test), Continuous Integration/Continuous Deployment (CI/CD), Git Version Control, API Integration (FastAPI), CMake,
+    Linux Environments
+     </p>
+
   </div>
 
   <div class="skills-category">
     <h3>Computational</h3>
     <p>
-      <strong>Machine Learning & Data Science:</strong> NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch<br>
-      <strong>Neuroimaging:</strong> FSL, SPM<br>
-      <strong>Software Engineering:</strong> Test Driven Development (TDD) "Google Test", Version Control "Git", CI/CD, CMake, LaTeX, Linux
+    Machine Learning & Deep Learning, Large-scale Modelling and high-dimensional Data Analysis, Multimodal signal processing, Dynamical Systems, Numerical Methods, Probability & Statistics, Information Theory
     </p>
   </div>
 
-  <div class="skills-category">
-    <h3>Mathematical</h3>
-    <p>Signal Processing, Large-scale Modelling and Data Analysis, Machine Learning, Probability Theory and Statistics, Dynamical Systems, Numerical Methods, Information Theory</p>
-  </div>
 
   <div class="skills-category">
-    <h3>Engineering</h3>
-    <p>Arduino, TEMS, ACTIX Analyzer, Multisim, Logic Design, Oscilloscope</p>
+    <h3>Neurotechnology</h3>
+    <p>fMRI Analysis (FSL, SPM), EEG/EMG Acquisition & Processing, Embedded Systems (ESP32 Microcontroller), Electronics Simulation (Multisim), Hardware Measurement Tools (Open Ephys,
+Oscilloscope)</p>
   </div>
 </section>
 
