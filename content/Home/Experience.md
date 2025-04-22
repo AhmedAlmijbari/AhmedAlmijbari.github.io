@@ -18,7 +18,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: 'PhD Researcher, Academic Staff'
+  - title: 'PhD Researcher, AI Research Engineer'
     company: 'Technical University of Munich'
     company_url: 'https://www.tum.de/'
     company_logo: tum
@@ -28,8 +28,10 @@ experience:
     description: >-
       Munich Institute of Robotics and Machine Intelligence – The AI Mission Institute | Neural Interfacing Group.
 
-
-  - title: 'Research Engineer, Neural Data Science, Signal and Image Processing'
+      - Researching brain-inspired approaches to AI and computing for next-generation intelligent systems
+      
+      - Designing intelligent algorithms integrating machine learning dynamical systems, controltheory, and data science to model and control brain interfacing systems
+  - title: 'Data Scientist'
     company: 'Klinikum rechts der Isar'
     company_url: 'https://www.mri.tum.de/'
     company_logo: MRI
@@ -40,9 +42,9 @@ experience:
        Department of Diagnostic and Interventional Neuroradiology.
        <div style='text-align: justify;'>
 
-       - Implemented large-scale data-driven methods to analyze over 200 GB of fMRI data and 160 million time series neural signals for exploring brain dynamics and identifying patterns associated with neural disorders, thereby enhancing the potential for diagnosing and treating mental disorders. 
+       - Developed large-scale data-driven systems to identify neural biomarkers of brain disorders, analyzing over 200 GB of neuroimaging data and 160+ million brain-signal time series. Advanced AI-driven diagnostic tools and personalized treatment for mental and neurological disorders. 
 
-       - Developed an energy landscape model that uncovers the brain representation of metacognition in the prefrontal cortex.
+       - built an energy landscape model that uncovers the brain representation of metacognition in the prefrontal cortex.
 
        - Identified two subcortical regions that influence the emergence of metacognition ability in the brain using unsupervised machine learning. 
        
@@ -51,20 +53,20 @@ experience:
        </div>
        
 
-  - title: 'Research Assistant, Computational Neuroscience, Biomedical Data Analysis, Algorithm Development'
-    company: 'The Neuroimaging Center at the Technische Universität München'
+  - title: 'ML Research Engineer'
+    company: 'Technical University of Munich'
     company_url: 'https://www.tum.de/'
     company_logo: tum
     location: 'Munich'
     date_start: '2023-02-01'
     date_end: '2023-08-31'
     description: >-
-        Dynamics of Brain Connectivity Lab
+        Dynamics of Brain Connectivity Lab | The Neuroimaging Center at the Technische Universität München.
 
-        - Developed computational and quantitative algorithms for processing over 800k data points of fMRI data.
+        - Built unsupervised machine learning algorithms to extract task-relevant features from over 3 million high-dimensional, temporal whole-brain voxel data points across 25+ subjects.
 
 
-  - title: 'Summer Intern, Machine Learning Engineering, Medical AI'
+  - title: 'AI Intern'
     company: 'University of Oxford'
     company_url: 'https://www.ox.ac.uk/'
     company_logo: oxford
@@ -74,9 +76,9 @@ experience:
     description: >-
         Oxford Machine Learning Summer School - MLx Health
 
-        - Engaged in rigorous 43 hours of coursework, 12 hands-on workshops, and a five-team-member collaborative project in healthcare at the distinguished Oxford Machine Learning Summer School, deepening the understanding of advanced ML concepts and methodologies.
+        - Completed 43 hours of intensive training and 12 hands-on workshops covering foundational and medical AI. Collaborated on an interdisciplinary team project to implement advanced deep learning models for healthcare AI applications.
 
-  - title: 'Research Intern, Neuroengineering, Neural Implants Engineering, Closed-loop Neuromodulation'
+  - title: 'Neuroengineering Intern'
     company: 'Technical University of Munich'
     company_url: 'https://www.tum.de/'
     company_logo: tum
@@ -84,12 +86,12 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-10-31'
     description: '
-        Ondracek Lab
+        Brain and Memory Lab
     
-        - Engineered and deployed a state-of-the-art real-time brain implant closed-loop system to identify and modulate sharp wave ripples associated with learning and memory in the brain with a success rate of more than 97% and a low latency of under 20ms.'
+        - Engineered and deployed a real-time brain interfacing system for detecting and modulating memory-related neural biomarkers, achieving over 97% accuracy with less than 20ms latency.'
 
 
-  - title: 'Teaching Assistant, Tutor, Curriculum Development'
+  - title: 'Teaching Assistant'
     company: 'University of Benghazi'
     company_url: 'https://uob.edu.ly/'
     company_logo: UoB
@@ -97,10 +99,7 @@ experience:
     date_start: '2017-09-01'
     date_end: '2018-12-31'
     description: '
-        - Facilitated and taught +50 tutorial lectures on Electromagnetic Theory and Digital Communications, enhancing +100 students´ understanding and engagement.
-
-
-- Collaborated on four Signal Processing and Machine learning projects, contributing to developing innovative graduate dissertations.'
+        - Delivered 50+ tutorial sessions in Electromagnetic Theory and Digital Communications, improving comprehension and academic performance for 100+ students. Co-supervised four projects applying advanced Signal Processing and Machine Learning methods.'
 
   - title: 'Radio Frequency Engineer, Network Optimization, Data Field Analysis'
     company: 'Manart Almutawasit communications'
@@ -109,10 +108,7 @@ experience:
     location: 'Benghazi'
     date_start: '2017-08-01'
     date_end: '2017-11-30'
-    description: '- Managed Drive-Test processes for the Nokia H+ project, ensuring optimal network performance and quality of 50+ sites.
-
-
-        - Played a key role in post-processing data field analysis, delivering valuable insights and weekly reports for network optimization and enhancement to the vendor.'    
+    description: '- Managed Drive-Test processes and post-processing data field analysis for the Nokia H+ project, ensuring optimal network performance and quality of 50+ sites.'    
 
   - title: 'Student Intern, Wireless Engineering'
     company: 'Almadar Aljadid'
@@ -133,7 +129,6 @@ experience:
     date_start: '2016-06-01'
     date_end: '2016-08-31'
     description: '- Completed a 240+ hour internship focused on RF, microwave, and CDMA components, gaining valuable experience through theoretical concepts and hands-on practice.
-
-- Conducted weekly technical reports on network performance, maintenance and troubleshooting.'
+'
 
 ---

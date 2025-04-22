@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Researcher and Academic
+role: AI PhD Researcher | Neurotechnology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,9 @@ bio: Reverse-engineering the human brain to undersand how the brain works, build
 
 # Interests to show in About widget
 interests:
-- NeuroAI and Machine Learning
-- Brain-Computer Interface
-- Biological and Artificial Intelligence
+- Artificial Intelligence
+- Neurotechnology
+- Data Science
 
  
 
@@ -83,5 +83,7 @@ email: ahmed.elmagbri@gmail.com
 highlight_name: true
 ---
 
-Salam! I'm Ahmed, a PhD researcher and academic staff member at the Munich Institute of Robotics and Machine Intelligence, Technical University of Munich. I graduated with honours from the Elite MSc program in Neuroengineering at TU Munich, where I was awarded the Research Excellence Certificate from the Elite Network of Bavaria. My experience spans AI, brain-inspired systems, and neural dynamics. My passion lies in reverse-engineering the biological brain to build intelligent machines and restore impaired neural functions.
+I’m Ahmed — an AI PhD researcher and academic staff member at the Munich Institute of Robotics and Machine Intelligence, Technical University of Munich.
+I develop brain-inspired AI systems, with proven experience building AI-driven healthcare solutions. My multidisciplinary background spans Machine Learning, Data Science, Digital Systems, and Neuroengineering. I hold an Elite MSc in Neuroengineering from TUM, where I graduated with honours and was awarded the Research Excellence Certificate by the Elite Network of Bavaria, along with two merit-based scholarships.
+My passion lies in reverse-engineering the brain to create next-generation intelligent machines, advance neural interface technologies, and restore impaired neural functions. I aim to bridge AI and neuroscience to build intelligent systems that drive biomedical innovation and shape the future of healthcare.
 {style="text-align: justify;"}
